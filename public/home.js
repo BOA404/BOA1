@@ -117,7 +117,14 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>BOA Support is the customer service team for Banking, a popular online platform for sending and receiving money from your close one.
+The BOA Support team is responsible for:
+1. Answering questions about Online services and features.
+2. Resolving issues with accounts, transactions, and payments.
+3. Providing guidance on security, verification, and compliance.
+4. Assisting with technical problems, such as login or connectivity issues.
+You can typically contact BOA
+Support through here.</p>
           </div>
         `
         break
